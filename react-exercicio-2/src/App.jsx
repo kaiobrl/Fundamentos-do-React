@@ -2,9 +2,10 @@ import Card from "./components/Card"
 
 function App() {
   return (
-    <div className="app">
+    <>
+      <h1>Exercicio 2</h1>
       <Card />
-    </div>
+    </>
   )
 }
 
