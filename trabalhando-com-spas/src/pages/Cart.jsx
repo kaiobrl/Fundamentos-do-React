@@ -13,5 +13,5 @@ export default function Cart() {
       </ul>
       <button>Finalizar compra</button>
     </section>
-  )
+  );
 }

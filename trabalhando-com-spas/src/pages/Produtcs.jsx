@@ -1,4 +1,4 @@
-import products from "../database.json"
+import products from "../database.json";
 
 export default function Products() {
   return (
@@ -19,5 +19,5 @@ export default function Products() {
         </ul>
       </section>
     </section>
-  )
+  );
 }
