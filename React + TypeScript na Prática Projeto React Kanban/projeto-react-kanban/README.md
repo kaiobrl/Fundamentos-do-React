@@ -1,3 +1,17 @@
+# Projeto React Kanban
+
+### Sumário
+
+1 - Criação do Projeto e Configuração Inicial
+
+2 - Criação da Interface
+
+3 - Comunicação com a API
+
+4 - Dialog de Nova Tarefa
+
+5 - Atualização e Exclução de Tarefas
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
